@@ -4,13 +4,13 @@
 
 ###
 
-<h2 align="left">Amanda P.S</h2>
+<h2 align="left">Amanda Sousa</h2>
 
 ###
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E4CBFF&width=435&lines=Programming+student+...%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<h5 align="left"> </>Estudante de ADS | Systems Development Analysis  ─── ‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅</h5>
+<h5 align="left"> Estudante de ADS | Systems Development Analysis  ─── ‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅</h5>
 
 ###
 

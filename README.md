@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left"></> Estudante de ADS | Systems Development Analysis  ─── ‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅</h5>
+<h5 align="left"></> Estudante de ADS | Systems Analysis and Development Student  ─── ‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅</h5>
 
 ###
 

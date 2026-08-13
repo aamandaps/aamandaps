@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Amanda P.S</h2>
+<h2 align="left">Amanda Sousa</h2>
 
 ###
 

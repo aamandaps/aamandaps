@@ -8,11 +8,11 @@
 
 ###
 
-<h5 align="left"></> Estudante de ADS | Systems Analysis and Development Student  ───</h5>
+<h5 align="left"></> Estudante de ADS | Systems Analysis and Development Student </h5>
 
 ###
 
-<h5 align="left">📍 São Paulo, Brazil ───</h5>
+<h5 align="left">📍 São Paulo, Brazil </h5>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">🛠️ Minhas ferramentas ───</h5>
+<h5 align="left">🛠️ Minhas ferramentas</h5>
 
 ###
 

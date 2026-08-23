@@ -8,19 +8,19 @@
 
 ###
 
-<h5 align="left"></> Estudante de ADS | Systems Analysis and Development Student  ─── ‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅</h5>
+<h5 align="left"></> Estudante de ADS | Systems Analysis and Development Student  ───</h5>
 
 ###
 
-<h5 align="left">📍 São Paulo, Brazil ─── ⋆˚𝜗𝜚˚⋆</h5>
+<h5 align="left">📍 São Paulo, Brazil ───</h5>
 
 ###
 
-<h6 align="left">╰┈➤ Atualmente cursando Análise de Desenvolvimento de Sistemas pela FATEC - Zona Leste | 1/6</h6>
+<h6 align="left">╰┈➤ Atualmente cursando Análise de Desenvolvimento de Sistemas pela FATEC - Zona Leste | 2/6</h6>
 
 ###
 
-<h5 align="left">🛠️ Minhas ferramentas ─── ⊹ ࣪ ˖୭˚.</h5>
+<h5 align="left">🛠️ Minhas ferramentas ───</h5>
 
 ###
 

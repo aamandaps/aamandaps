@@ -8,23 +8,23 @@
 
 ###
 
-<h5 align="left"></> Estudante de ADS | Systems Analysis and Development Student </h5>
+<h4 align="left"></> Estudante de ADS | Systems Analysis and Development Student </h4>
 
 ###
 
-<h5 align="left">📍 São Paulo, Brazil </h5>
+<h4 align="left">📍 São Paulo, Brazil </h4>
 
 ###
 
-<h6 align="left">╰┈➤ Atualmente cursando Análise de Desenvolvimento de Sistemas pela FATEC - Zona Leste | 2/6</h6>
+<h5 align="left">╰┈➤ Atualmente cursando Análise de Desenvolvimento de Sistemas pela FATEC - Zona Leste | 2/6</h5>
 
 ###
 
-<h5 align="left">🛠️ Minhas ferramentas</h5>
+<h4 align="left">🛠️ Minhas ferramentas</h4>
 
 ###
 
-<h6 align="left">╰┈➤ Algumas ferramentas que utilizo/utilizei ao longo da minha vida acadêmica.</h6>
+<h5 align="left">╰┈➤ Algumas ferramentas que utilizo/utilizei ao longo da minha vida acadêmica.</h5>
 
 ###
 

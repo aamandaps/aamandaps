@@ -11,7 +11,6 @@
 <h4 data-importer="text" align="left">📍 São Paulo - SP<br>👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistema <br>🎯 Buscando Estágio de Tecnologia, com foco em desenvolvimento (Java e Python)</h4>
 
 ###
-<br>
 <h3 data-importer="text" align="left">➤ Linguagens e Ferramentas</h3>
 
 ###

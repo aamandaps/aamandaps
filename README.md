@@ -8,7 +8,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">📍 São Paulo - SP<br>👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas | FATEC Zona Leste<br>🎓​ Formada em Tec. de Desenvolvimento de Sistemas | ETEC Itaquera II <br>🎯 Buscando Estágio de Tecnologia, com foco em desenvolvimento (Java e Python)</h4>
+<h4 data-importer="text" align="left">📍 São Paulo - SP<br>👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas | FATEC Zona Leste<br>🎓​ Formada em Tec. em Desenvolvimento de Sistemas | ETEC Itaquera II <br>🎯 Buscando Estágio de Tecnologia, com foco em desenvolvimento (Java e Python)</h4>
 
 ###
 <h3 data-importer="text" align="left">➤ Linguagens e Ferramentas</h3>

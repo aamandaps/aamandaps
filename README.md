@@ -11,7 +11,7 @@
 <h4 data-importer="text" align="left">👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas | FATEC Zona Leste<br>🎓​ Formada em Tec. de Desenvolvimento de Sistemas | ETEC Itaquera II <br>🎯 Buscando Estágio de Tecnologia, com foco em desenvolvimento (Java e Python)</h4>
 
 ###
-<h3 data-importer="text" align="left">➤ Linguagens e Ferramentas</h3>
+## Linguagens e Ferramentas
 
 ###
 
@@ -26,5 +26,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
+
+
+###
+
+<div align="left">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aamandaps&layout=compact&theme=dracula&hide_border=true&title_color=D8BFD8" alt="Linguagens mais usadas" />
+</div>
+
+###
 
 ###

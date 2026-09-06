@@ -30,12 +30,12 @@
 ###
 
 
+
 ###
 
 <div align="left">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aamandaps&layout=compact&theme=dracula&hide_border=true&title_color=D8BFD8" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aamandaps&layout=compact&hide_border=true&theme=dracula&title_color=D8BFD8" alt="Linguagens mais usadas" style="vertical-align: middle; margin-right: 15px;" />
+  <img height="165" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJrM2ZienBtMWhuYmNnYTlhY3ZjdTMxdThsOW4yNTIycnZndTQzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" alt="Gatinho fofo" style="vertical-align: middle;" />
 </div>
-
-###
 
 ###

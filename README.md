@@ -10,12 +10,14 @@
 
 <h4 data-importer="text" align="left">👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas | FATEC Zona Leste<br>🎓​ Formada em Tec. de Desenvolvimento de Sistemas | ETEC Itaquera II <br>🎯 Buscando Estágio de Tecnologia, com foco em desenvolvimento (Java e Python)</h4>
 
-###
-## Linguagens e Ferramentas
+<br>
+
+## 🛠️ Linguagens e Ferramentas
 
 ###
 
 <div data-importer="techs" align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -30,7 +32,6 @@
 ###
 
 
-
 ###
 
 <div align="left">
@@ -38,13 +39,13 @@
   <img height="165" src="https://i.giphy.com/I3rbjijgss7D2Oab2A.gif?v=1" alt="Gatinho fofo" style="vertical-align: middle;" />
 </div>
 
+<br>
+
 ###
 
 ## ☁️ Conquistas
 <!-- Seção de Cloud e Certificações -->
 <div align="left">
-  
-  <br>
   
   <a href="https://www.credly.com/earner/earned/share/8771df96-957c-41a0-ab94-e61c4a57cee8" target="_blank">
     <img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="Badge AWS Educate Introduction to Cloud 101" width="130">

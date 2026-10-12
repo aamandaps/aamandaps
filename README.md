@@ -35,7 +35,20 @@
 
 <div align="left">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aamandaps&layout=compact&hide_border=true&theme=dracula&title_color=D8BFD8" alt="Linguagens mais usadas" style="vertical-align: middle; margin-right: 15px;" />
-  <img height="165" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJrM2ZienBtMWhuYmNnYTlhY3ZjdTMxdThsOW4yNTIycnZndTQzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" alt="Gatinho fofo" style="vertical-align: middle;" />
+  <img height="165" src="https://i.giphy.com/I3rbjijgss7D2Oab2A.gif?v=1" alt="Gatinho fofo" style="vertical-align: middle;" />
 </div>
 
 ###
+
+## ☁️ Conquistas
+<!-- Seção de Cloud e Certificações -->
+<div align="left">
+  
+  <br>
+  
+  <a href="https://www.credly.com/earner/earned/share/8771df96-957c-41a0-ab94-e61c4a57cee8" target="_blank">
+    <img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="Badge AWS Educate Introduction to Cloud 101" width="130">
+  </a>
+  
+  <p><i style="color: gray;">Construindo soluções com AWS.</i></p>
+</div>

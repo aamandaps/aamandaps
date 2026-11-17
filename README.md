@@ -35,8 +35,8 @@
 ###
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aamandaps&layout=compact&hide_border=true&theme=dracula&title_color=D8BFD8" alt="Linguagens mais usadas" style="vertical-align: middle; margin-right: 15px;" />
-  <img height="165" src="https://i.giphy.com/I3rbjijgss7D2Oab2A.gif?v=1" alt="Gatinho fofo" style="vertical-align: middle;" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamandaps&layout=compact&hide_border=true&theme=dracula&title_color=D8BFD8" alt="Linguagens mais usadas" />
+  <img height="165" src="https://i.giphy.com/I3rbjijgss7D2Oab2A.gif?v=1" alt="Gatinho fofo" />
 </div>
 
 <br>

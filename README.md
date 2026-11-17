@@ -36,7 +36,7 @@
 
 <div align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamandaps&layout=compact&hide_border=true&theme=dracula&title_color=D8BFD8" alt="Linguagens mais usadas" />
-  <img height="165" src="./cat.gif" alt="Gatinho fofo" />
+  <img height="165" src="img/gif/blackcat.gif" alt="Gatinho fofo" />
 </div>
 
 <br>
@@ -48,7 +48,7 @@
 <div align="left">
   
   <a href="https://www.credly.com/earner/earned/share/8771df96-957c-41a0-ab94-e61c4a57cee8" target="_blank">
-    <img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="Badge AWS Educate Introduction to Cloud 101" width="130">
+    <img src="img/badges/awsBadge_intructionCloudComputing.png" alt="Badge AWS Educate Introduction to Cloud 101" width="140">
   </a>
   
   <p><i style="color: gray;">Construindo soluções com AWS.</i></p>
